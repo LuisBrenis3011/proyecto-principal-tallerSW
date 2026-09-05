@@ -149,5 +149,5 @@ Render (JSX)
 ## 4. Comunicación Frontend ↔ Backend
 
 - Las URLs base del backend se configuran por entorno (p. ej. `VITE_API_URL`).
-- El frontend consume los endpoints definidos en `specs/overview.md` (sección 4).
+- El frontend consume los endpoints definidos en `overview.md` (sección 4).
 - El backend debe habilitar CORS para el origen del frontend (ver `config/CorsConfig`).
